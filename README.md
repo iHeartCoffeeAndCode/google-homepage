@@ -1,0 +1,1 @@
+I am mimicking the Foogle homepage as a project.
