@@ -1,1 +1,1 @@
-I am mimicking the Foogle homepage as a project.
+I am mimicking the Google homepage as a project.
