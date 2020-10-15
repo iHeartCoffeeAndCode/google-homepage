@@ -1,0 +1,39 @@
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 272px;
+	padding-top: 109px
+}
+.search-bar {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 30px 30px 30px 30px;
+	width: 35%;
+	height: 50px;
+}
+header  {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.nav-links{
+	list-style: none;
+	
+}
+.nav-links li {
+	display: inline-block;
+	padding: 0px 20px;
+}
+.two_buttons {
+	display: flex;
+	justify-content: center;
+	padding-top: 30px;
+}
+#search {
+	margin-right: 5px;
+}
+#feeling_lucky {
+	margin-left: 5px;
+}
