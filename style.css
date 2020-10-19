@@ -17,14 +17,18 @@ header  {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	
 }
 .nav-links{
 	list-style: none;
+	font-family: arial,sans-serif;
 	
 }
 .nav-links li {
 	display: inline-block;
-	padding: 0px 20px;
+	padding-right: 20px;
+	
+	
 }
 .two_buttons {
 	display: flex;
@@ -36,4 +40,38 @@ header  {
 }
 #feeling_lucky {
 	margin-left: 5px;
+}
+.footer-list1 {
+	list-style: none;
+}
+.footer-list1 li {
+	display: inline-block;
+	padding: 20px;
+	}
+
+.left-bar {
+
+	}
+.right-bar {
+	position: absolute;
+    right: -10px;
+    bottom: 0;
+}
+
+.bottom-bar {
+bottom: 0;
+left: 0;
+position: absolute;
+right: 0;
+background: #f2f2f2;
+line-height: 10px;
+min-width: 980px;
+border-top: 1px solid #dadce0;
+min-width: 400px;
+font-size: 10pt;
+font-family: arial,sans-serif;
+
+}
+.bar {
+	font-family: arial,sans-serif;	
 }
