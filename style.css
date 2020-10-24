@@ -75,3 +75,6 @@ font-family: arial,sans-serif;
 .bar {
 	font-family: arial,sans-serif;	
 }
+a {text-decoration: none; 
+	color: black;
+}
